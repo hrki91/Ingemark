@@ -28,7 +28,7 @@ import net.minidev.json.JSONObject;
 class AppTest {
 
 	private final String url = "http://localhost:";
-	private final String testCode = "019";
+	private final String testCode = "0000000019";
 
 	@LocalServerPort
 	private int port;

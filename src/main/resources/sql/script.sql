@@ -2,7 +2,7 @@
 CREATE TABLE public.product
 (
   id bigint NOT NULL,
-  code character varying(255),
+  code character varying(10),
   description character varying(255),
   is_available boolean NOT NULL,
   name character varying(255),
